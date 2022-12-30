@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.177.87.182:8081/repository/wallmart-snapshort/</url>
+	      <url>http://35.77.74.148:8081/repository/wallmart-web1snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
